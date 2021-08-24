@@ -248,14 +248,20 @@ body{
     position: absolute;
     z-index: 10px;
     font-family: dnp-shuei-mincho-pr6, sans-serif;
-    font-size: 3vw;
-    margin: 30vw 0vw 0vw -46vw;
+    font-size: 2vw;
     border: solid 0.1vw #000000;
-    width: 9.6vw;
-    padding-left: 1.3vw;
-    padding-bottom:0.5vw ;
-    margin:40vw 0vw 0vw -47vw ;
+    width: 12vw;
+    padding: 0.2vw 0vw 0.2vw 1.3vw;
+    line-height: 3vw;
+    margin:40.2vw 0vw 0vw -48vw ;
  }
+
+
+
+.index2:hover{
+    color: white;
+    background-color: #000000;
+}
 
 /* .more-sen{
     position: absolute;
@@ -270,9 +276,6 @@ body{
 
 } */
 
-.index2:hover{
-    color: rgb(128, 128, 128);
-}
 
 /*==店舗==*/
 .tenpo{
